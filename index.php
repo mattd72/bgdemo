@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+d<!DOCTYPE html>
 <!--[if IE 9]><html class="ie9"><![endif]-->
 <!--[if gt IE 9]><!-->
 <html>
@@ -90,7 +90,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="greenrose.jpeg">
+            <img src="redrose.jpeg">
           </p>
         </div>
       </div>
